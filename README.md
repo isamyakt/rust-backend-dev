@@ -1,6 +1,6 @@
 # rust-backend-dev
 
--Simple Rocket API Boilerplate 🚀🔥
+-Rocket API Boilerplate 🚀🔥
 
 -This is a simple Rocket Json HTTP API boilerplate for starting your own API.
 
